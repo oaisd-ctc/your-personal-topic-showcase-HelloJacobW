@@ -13,20 +13,26 @@ header{
 main{
     border-radius:2em;
     border:solid 2px black;
-    height:300px;
     background:white
 }
 h1{
     text-align:center;
     font-size:3em;
 }
-#one{
+#two{
     border:solid 1px blue;
 }
 article{
     width:50%;
-    border:solid 1px red;
     text-align:center;
     font-size:1.25em;
     display:inline-block;
+    vertical-align:top;
+    margin-top:6em;
+    border:solid 1px red;
+}
+img{
+    display:inline block;
+    text-align:center;
+    border:solid 1px green;
 }
