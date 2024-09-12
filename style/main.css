@@ -6,21 +6,18 @@ header{
     text-align:center;
     border-radius:2em;
     border:solid 2px darkblue;
-    background: rgb(216, 216, 216);
-    color:rgb(117, 117, 117);
-    margin:20px;
+    background: azure;
+    color:skyblue;
+    margin:.75em;
 }
 main{
     border-radius:2em;
     border:solid 2px black;
     background:white
 }
-h1{
+h2{
     text-align:center;
     font-size:3em;
-}
-#two{
-    border:solid 1px blue;
 }
 article{
     width:50%;
@@ -29,10 +26,9 @@ article{
     display:inline-block;
     vertical-align:top;
     margin-top:6em;
-    border:solid 1px red;
 }
 img{
     display:inline block;
     text-align:center;
-    border:solid 1px green;
+    width:35%
 }
