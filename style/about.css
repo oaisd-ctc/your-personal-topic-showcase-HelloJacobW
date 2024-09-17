@@ -1,3 +1,33 @@
 body{
     background:azure;
 }
+header{
+    font-size:6em;
+    text-align:center;
+    border-radius:2em;
+    border:solid 2px darkblue;
+    background: aqua;
+    color:yellowgreen;
+    margin:.75em;
+    margin-top:-0.2em;
+}
+main{
+    border-radius:2em;
+    border:solid 2px black;
+    background:white;
+}
+#wrapper{
+    display:flex;
+}
+#left{
+    border:solid 2px red;
+    width:75%;
+}
+ul{
+    border:solid 2px blue;
+    font-size:1.5em
+}
+#me{
+    width:15%;
+    margin-top:3em;
+}
