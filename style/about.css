@@ -20,14 +20,18 @@ main{
     display:flex;
 }
 #left{
-    border:solid 2px red;
-    width:75%;
+    width:35%;
+}
+#right{
+    width:35%
 }
 ul{
-    border:solid 2px blue;
-    font-size:1.5em
+    font-size:1.5em;
+    width:35%
 }
 #me{
     width:15%;
     margin-top:3em;
+    height:24em;
+    margin-left:4.5em;
 }
